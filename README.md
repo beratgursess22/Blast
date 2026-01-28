@@ -48,6 +48,6 @@ Active movement counters ensure that visual updates (icon changes, shuffles) occ
 Most gameplay parameters (board size, colors, thresholds, speeds) are exposed to the Inspector for fast iteration and testing.
 
 
-![Uploading Screenshot 2026-01-28 at 14.28.29.png…]()
+<img width="349" height="581" alt="Screenshot 2026-01-28 at 14 30 07" src="https://github.com/user-attachments/assets/7c9110b8-47a6-482f-9ac3-7377218d5869" />
 
 
